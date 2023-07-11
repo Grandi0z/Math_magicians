@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-<!--   <img src="" alt="logo" width="140"  height="auto" /> -->
+<img src="./src/assets/icon/Calculator.jpg" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Math Magicians</b></h3>
@@ -13,7 +13,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 To Do list ](#-to-do-list-)
+- [📖 Math Magicians ](#-math-magicians-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
