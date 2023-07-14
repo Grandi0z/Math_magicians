@@ -189,6 +189,6 @@ thanks to Microverse for providing the necessary resources.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+This project is [MIT](https://github.com/Grandi0z/Math_magicians/blob/design/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
