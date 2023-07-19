@@ -17,7 +17,6 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -26,6 +25,7 @@
     - [Run tests](#run-tests)
     - [Deployment](#deployment)
   - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -69,7 +69,7 @@ Not yet published
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo" href=""></a>
+<!-- ## 🚀 Live Demo <a name="live-demo" href=""></a> -->
 
 
 
@@ -136,6 +136,13 @@ You can deploy this project using: GitHub Pages
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **Connect to an API within a functional component**
+- [ ] **Show different UI outputs depending on the component state**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
