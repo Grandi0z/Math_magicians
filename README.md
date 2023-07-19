@@ -138,7 +138,6 @@ You can deploy this project using: GitHub Pages
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **Connect to an API within a functional component**
 - [ ] **Show different UI outputs depending on the component state**
