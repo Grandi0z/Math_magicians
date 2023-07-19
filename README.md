@@ -16,6 +16,7 @@
 - [📖 Math Magicians ](#-math-magicians-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
   - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
@@ -25,7 +26,6 @@
     - [Run tests](#run-tests)
     - [Deployment](#deployment)
   - [👥 Authors ](#-authors-)
-  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -57,7 +57,12 @@ The following stacks were used
 
 <!-- Features -->
 
+### Key Features <a name="key-features"></a>
 
+Not yet published
+
+- **Add operations**
+- **Add Quotes**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -131,13 +136,6 @@ You can deploy this project using: GitHub Pages
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **Add quote from an Api**
-- [ ] **Add new pages**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
