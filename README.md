@@ -130,7 +130,7 @@ You can deploy this project using: GitHub Pages
 
 - GitHub: [@Grandi0z](https://github.com/Grandi0z)
 - Twitter: [@Joseph_LSK](https://twitter.com/Joseph_LSK)
-- LinkedIn: [Joseph L Kausi](linkedin.com/in/joseph-lwanzo-khausi-bb8782139)
+- LinkedIn: [Joseph L Kausi](https://www.linkedin.com/in/joseph-lwanzo-khausi-bb8782139/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
