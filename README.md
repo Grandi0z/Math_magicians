@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-<img src="./src/assets/icon/Calculator.jpg" alt="logo" width="140"  height="auto" />
+<img src="./src/assets/icon/calculator.jpg" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Math Magicians</b></h3>
@@ -142,8 +142,8 @@ You can deploy this project using: GitHub Pages
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **Interaction with Api**
-- [ ] **Data base storage**
+- [ ] **Add quote from an Api**
+- [ ] **Add new pages**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
