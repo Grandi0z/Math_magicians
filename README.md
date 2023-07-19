@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-<img src="./src/assets/icon/calculator.jpg" alt="logo" width="140"  height="auto" />
+<img src="./src/assets/icon/Grandiose.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Math Magicians</b></h3>
@@ -130,7 +130,7 @@ You can deploy this project using: GitHub Pages
 
 - GitHub: [@Grandi0z](https://github.com/Grandi0z)
 - Twitter: [@Joseph_LSK](https://twitter.com/Joseph_LSK)
-- LinkedIn: [Joeph L Kausi](https://linkedin.com/in/Joeph_l_Kausi)
+- LinkedIn: [Joseph L Kausi](linkedin.com/in/joseph-lwanzo-khausi-bb8782139)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
