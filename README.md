@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-<img src="./src/assets/icon/Calculator.jpg" alt="logo" width="140"  height="auto" />
+<img src="./src/assets/icon/Grandiose.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Math Magicians</b></h3>
@@ -17,7 +17,6 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo (not yet)](#-live-demo-not-yet)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -68,9 +67,8 @@ Not yet published
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo" href="">(not yet)</a>
+<!-- ## 🚀 Live Demo <a name="live-demo" href=""></a> -->
 
 
 
@@ -132,7 +130,7 @@ You can deploy this project using: GitHub Pages
 
 - GitHub: [@Grandi0z](https://github.com/Grandi0z)
 - Twitter: [@Joseph_LSK](https://twitter.com/Joseph_LSK)
-- LinkedIn: [Joeph L Kausi](https://linkedin.com/in/Joeph_l_Kausi)
+- LinkedIn: [Joseph L Kausi](https://www.linkedin.com/in/joseph-lwanzo-khausi-bb8782139/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -140,10 +138,9 @@ You can deploy this project using: GitHub Pages
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
-- [ ] **Interaction with Api**
-- [ ] **Data base storage**
+- [ ] **Connect to an API within a functional component**
+- [ ] **Show different UI outputs depending on the component state**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
