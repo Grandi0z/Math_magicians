@@ -16,8 +16,7 @@
 - [📖 Math Magicians ](#-math-magicians-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
-    - [Key Features ](#key-features-)
-  - [🚀 Live Demo (not yet)](#-live-demo-not-yet)
+  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -58,19 +57,14 @@ The following stacks were used
 
 <!-- Features -->
 
-### Key Features <a name="key-features"></a>
 
-Not yet published
-
-- **Add operations**
-- **Add Quotes**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo" href="">(not yet)</a>
+## 🚀 Live Demo <a name="live-demo" href=""></a>
 
 
 
