@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import Key from './Key.js';
+import Key from './Key';
 
 const KeyBoard = ({ data, setData, calculate }) => {
   const handleOnClick = (e) => {

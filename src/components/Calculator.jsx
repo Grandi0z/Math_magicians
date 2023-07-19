@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import calculate from '../logic/calculate';
-import KeyBoard from './KeyBoard.js';
-import Screen from './Screen.js';
+import KeyBoard from './KeyBoard';
+import Screen from './Screen';
 import displayOnScreen from './functions/functions';
 
 function Calculator() {
