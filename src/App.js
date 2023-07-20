@@ -1,5 +1,5 @@
 import Calculator from './components/Calculator';
-import Quote from './components/quote';
+import Quote from './components/Quote';
 
 function App() {
   return (
