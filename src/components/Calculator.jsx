@@ -13,7 +13,7 @@ function Calculator() {
     },
   );
   return (
-    <div>
+    <div className="calculator">
       <Screen value={displayOnScreen(calculateData)} />
       <KeyBoard data={calculateData} setData={setCalculateData} calculate={calculate} />
     </div>
