@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 import KeyBoard from './KeyBoard';
 import Screen from './Screen';
-import displayOnScreen from './functions/functions';
+import displayOnScreen from './utils/functions';
 
 function Calculator() {
   const [calculateData, setCalculateData] = useState(
