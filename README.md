@@ -139,8 +139,8 @@ You can deploy this project using: GitHub Pages
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **Connect to an API within a functional component**
-- [ ] **Show different UI outputs depending on the component state**
+- [ ] **Add a beautiful UI**
+- [ ] **Put calculator and quotes on different pages**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
