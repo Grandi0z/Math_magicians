@@ -61,14 +61,14 @@ The following stacks were used
 
 Not yet published
 
-- **Add operations**
-- **Add Quotes**
+- **Make simple math operations**
+- **Display quotes**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- ## 🚀 Live Demo <a name="live-demo" href=""></a> -->
+## 🚀 Live Demo <a name="live-demo" href="https://math-magicians-simple-app-5ekj.onrender.com/">Live Demo</a>
 
 
 
