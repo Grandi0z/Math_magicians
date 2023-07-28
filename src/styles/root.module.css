@@ -1,0 +1,64 @@
+:root {
+  --white: #fff;
+  --dark: #000;
+  --grey: #edefebf8;
+  --lightGrey: #dfe6d9f8;
+  --darkGrey: #7a7878;
+  --orange: rgb(247 170 18);
+  --red: red;
+  --darkGreyTransparent: rgba(60, 60, 59, 0.799);
+}
+
+.main {
+  width: 90vw;
+}
+
+.header {
+  background: url('../assets/images/math.jpg');
+  height: 30vh;
+  margin-bottom: 1rem;
+}
+
+.h1,
+.nav {
+  background: var(--darkGreyTransparent);
+  height: 50%;
+  margin: 0;
+  padding-top: 0.9rem;
+  color: var(--orange);
+  text-transform: uppercase;
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+  margin: 0;
+}
+
+li {
+  list-style: none;
+  background: url('../assets/images/leef.png') no-repeat;
+  background-size: contain;
+}
+
+a {
+  text-decoration: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-color: var(--white);
+  padding: 0.6rem 0.8rem;
+  border: solid var(--darkGrey) 0.2rem;
+}
+
+a:hover {
+  color: var(--orange);
+  background-color: var(--darkGrey);
+  opacity: 0.7;
+}
+
+a:focus {
+  /* background-color: var(--darkGreyTransparent); */
+  color: var(--white);
+  border: var(--orange) 0.3rem double;
+  background-color: var(--darkGreyTransparent);
+}
