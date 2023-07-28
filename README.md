@@ -97,7 +97,11 @@ Once you cloned this project you are done !
 
 ### Usage
 
-To run the project, you can simply open the index.html file with your favorite browser.
+To run the project follow these steps :
+1. Install `Node.js` and `npm` on your computer (If you don't have them yet).
+2. Open your terminal and navigate to the root directory of your project.
+3. Run the command ```$npm start ``` in your terminal.
+4. Your default browser should open automatically and display your React app
 
 ### Run tests
 
